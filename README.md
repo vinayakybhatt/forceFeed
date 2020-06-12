@@ -99,7 +99,7 @@ forceFeed({words: allWords});
 
 ```
 
-In this implementation, the randomized, force fed content is made up of the original content. This is somewhat of an improvement because it uses the language of the page, not Latin dummy text.
+In this implementation, the randomized, force fed content is made up of the original content. This is somewhat of an improvement because it uses the language of the page, not Latin dummy text. Helpful and Efficient.
 
 # License
 
